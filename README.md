@@ -1,5 +1,4 @@
-# Personal-Projects
-Slot Machine Betting Game
+# Slot Machine Betting Game
 This Python program is a simple slot machine betting game. Players can deposit an amount and spin the slot machine to win prizes based on symbol combinations.
 
 How to Play
